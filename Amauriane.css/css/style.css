@@ -1,0 +1,26 @@
+body{
+    
+    background-image: url("/img/física2.jpg");
+
+
+}
+h1 {
+    color: aliceblue; 
+    margin: 30px 0px 20px 80px;
+
+}
+p{
+    color: aliceblue;  
+    text-align: justify;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 60px;
+    margin-right: 700px;
+}
+div img{
+    height: 400px; 
+    width: 500px; 
+}
+.imagem{
+    margin: 0px 0px 0px 200px;
+}
